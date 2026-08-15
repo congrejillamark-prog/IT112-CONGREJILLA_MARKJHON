@@ -1,0 +1,26 @@
+#include <stdio.h>
+ int main() {
+     // Display top border
+     printf("=====================================\n");
+     
+     // Display title
+     printf("            STUDENT PROFILE          \n");
+     
+     // Divider line
+     printf("=====================================\n");
+     
+     // Student details
+     printf("Name: Mark Jhon Congrejilla\n");
+     printf("Course and Section: BSIT-1R14\n");
+     printf("Year Level: 1st Year\n");
+     
+     // Divider line
+     printf("=====================================\n");
+     
+     // Goal statement
+     printf("      FUTURE SOFTWARE DEVELOPER      \n");
+     
+     // Bottom border
+     printf("=====================================\n");
+     return 0;
+ }
