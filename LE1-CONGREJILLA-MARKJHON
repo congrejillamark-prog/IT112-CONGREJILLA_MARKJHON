@@ -1,0 +1,15 @@
+#include <stdio.h>
+ int main() {
+     printf("==========================================\n");
+     printf("|        WELCOME TO C PROGRAMMING 1      |\n");
+     printf("==========================================\n");
+     printf("|                                        |\n");
+     printf("|    Where logic meets creativity!       |\n");
+     printf("|                                        |\n");
+     printf("|    Logic → Design → Code → Run       |\n");
+     printf("|                                        |\n");
+     printf("|    Happy Coding! 🖥️                    |\n");
+     printf("|                                        |\n");
+     printf("==========================================\n");
+     return 0;
+ }
